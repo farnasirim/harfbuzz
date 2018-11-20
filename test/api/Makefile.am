@@ -81,6 +81,7 @@ TEST_PROGS += \
 	test-ot-color \
 	test-ot-ligature-carets \
 	test-ot-name \
+	test-ot-metrics \
 	test-ot-tag \
 	test-ot-extents-cff \
 	$(NULL)
